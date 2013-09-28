@@ -2,3 +2,4 @@ name: Matt's Blog
 markdown: redcarpet
 pygments: true
 layout: default
+paginate: 2
