@@ -1,5 +1,9 @@
 name: Stuff and Things
+description: Some Stuff and Things
+author: Matthew Howell
 markdown: redcarpet
 pygments: true
 layout: default
 paginate: 2
+timezone: Australia/Sydney
+url: http://mhowell.github.io
